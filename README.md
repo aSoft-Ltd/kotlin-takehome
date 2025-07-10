@@ -26,8 +26,8 @@ A code block in simple main function should do the trick
 1. Without changing the time it takes to return each instance of (Pet) or (Owner), find a way to reduce the amount of time it takes to get the same results as requested on part 6
 
 #### NOTE: 
-- This question is intentionally vague to test your understanding. Do your best to not skip it but make an approach it the way you understood it
-- You are encouraged to use kotlin for this, but you lack skills there, use any strongly typed language
+- This question is intentionally vague to test your understanding. Do your best to not skip it but approach it the way you understood it
+- You are encouraged to use kotlin for this, but if you lack skills there, use any strongly typed language
 
 ### Section B: Compose Skills
 Using jetpack compose, create a user interface that looks like the image below.

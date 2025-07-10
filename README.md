@@ -23,10 +23,10 @@ A code block in simple main function should do the trick
 1. The pets and owners function above should fake that they take exactly 1 second to return each of their results. (e.g. If it returns 3 pets, then it should take 3 seconds)
 1. The pets and owners function should return a list of Pets and Owner as defined on (2) amd (3)
 1. Write a program on your main function that fetches a list of pets and then a list of owners and matches each pet to a particular owner
-1. Without changing the time of it takes to return each instance of (Pet) or (Owner), find a way to reduce the amount of time it takes to get the same results as requested on part 6
+1. Without changing the time it takes to return each instance of (Pet) or (Owner), find a way to reduce the amount of time it takes to get the same results as requested on part 6
 
 #### NOTE: 
-- This question is intentionally vague to test your understanding. Do your best to not skip it but make approach it the way you understood it
+- This question is intentionally vague to test your understanding. Do your best to not skip it but make an approach it the way you understood it
 - You are encouraged to use kotlin for this, but you lack skills there, use any strongly typed language
 
 ### Section B: Compose Skills
